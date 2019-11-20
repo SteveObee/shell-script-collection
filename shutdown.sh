@@ -1,0 +1,1 @@
+killall antimicro; xfce4-session-logout --halt;
